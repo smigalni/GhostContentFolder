@@ -1,0 +1,3 @@
+* [215d837](https://github.com/TryGhost/Casper/commit/215d837) 2.11.2 - Kevin Ansfield
+* [d2ec8d1](https://github.com/TryGhost/Casper/commit/d2ec8d1) Update dependency gulp-livereload to v4.0.2 - Renovate Bot
+* [4a4f66a](https://github.com/TryGhost/Casper/commit/4a4f66a) Update dependency gscan to v2.9.0 - Renovate Bot
